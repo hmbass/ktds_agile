@@ -1,0 +1,69 @@
+# Product Backlog 작성하기
+
+### INTRO.
+
+과제 전체에 대한 이해를 바탕으로 팀원들이 모두 참여하여 Product Backlog를 작성합니다.
+
+Product Backlog 작성은 Story의 도출, 구조화, 시각화 및 관리가 용이하도록 Story Mapping 기법을 활용합니다.
+
+|   참가자    | 타임박스 |             산출물             |
+| :---------: | :------: | :----------------------------: |
+| **팀 전원** | **2일**  | **Product Backlog(Story Map)** |
+
+### STEPS
+
+#### STEP 1: 준비
+
+- Story Mapping을 위해 필요한 준비물을 준비합니다.
+  - 큰 보드(혹은 넓은 벽), 포스트잇, 펜
+  - 보드는 아래와 같이 상단부터 가상의 세 영역으로 구분
+    - User: 1줄
+    - Epic: 1~2줄
+    - Story: 나머지 넗은 공간
+
+#### STEP 2: 제품 사용자 식별 (User)
+
+- 제품을 사용하는 사용자 유형을 식별합니다.
+  - 식별된 제품 사용자는 Story Map 상단의 "User" 영역에 게시
+
+#### STEP 3: 제품 사용자 별 큰 활동 찾기 (Epic)
+
+- 각 제품 사용자 유형 별로 완성된 제품을 사용하기 위해 수행하는 큰 활동들을 도출합니다
+  - 활동은 시간 연대(Narrative Flow) 순서로 생각
+  - 활동은 간단한 동사구 형태로 작성
+  - 도출된 활동들은 Story Map의 "Epic" 영역에 게시
+- 비슷한 활동들을 그룹핑하고, 상위 개념으로 표현하여 활동을 2단으로 구성 (선택사항)
+
+#### STEP 4: 큰 활동 별 세부 기능 찾기 (Story)
+
+- 각 큰 활동 별로 각 사용자에게 가치를 제공하는 세부 기능(Story)을 도출합니다.
+  - Story는 간단한 동사구 형태로 작성 (User Story 형식 적용은 선택사항)
+  - 도출된 세부 기능은 Story Map의 해당 "Epic" 아래의 "Story" 영역에 게시
+
+#### STEP 5: 기술 Story 찾기 (선택사항)
+
+- 제품 사용자에게 직접적인 가치를 제공하지는 않지만 다른 가치들을 제공하기 위해 갖추어야 하는 기술적인 작업 항목들을 도출합니다.
+  - 도출된 기술 Story는 Story Map의 해당 "Epic" 아래의 "Story" 영역에 게시 (필요하다면 별도의 "Epic"으로 구분)
+
+#### STEP 6: 의존성 찾기 (선택사항)
+
+- 타 팀 혹은 외부에 의존하는 Story를 식별합니다.
+  - 해당 Story에 의존성 표시, 혹은 의존성 항목을 별도로 구분
+
+#### STEP 7: 누락된 활동 및 기능 찾기
+
+- 지금까지 작성한 Story Map을 전체적으로 살펴보면서, 누락된 사용자, 활동, 기능이 없는지 검토하여 추가합니다.
+
+### PROTIP
+
+- 도출된 활동은 기능의 분류(카테고리)로 활용하는 것을 권장합니다.
+- 도출된 기능은 사용자에게 가치를 제공할 수 있는 수준에서 가능한 한 작은 단위로 세분화 합니다.
+  - 우선순위가 낮은 것은 나중에 세분화
+
+### REFERENCE
+
+- **[Product Backlog](./product-backlog.md)**
+- **[Product Backlog Template](http://moudemo.mousoft.co.kr/confluence/display/AW/Product+Backlog+Template)**
+- **[Product Backlog Management Tip](http://moudemo.mousoft.co.kr/confluence/display/AW/Product+Backlog+Management+Tip)**
+- **[Story Map](http://moudemo.mousoft.co.kr/confluence/display/AW/Story+Map)**
+- **[Epic-Story-Task](http://moudemo.mousoft.co.kr/confluence/display/AW/Epic-Story-Task)**
