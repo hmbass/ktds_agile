@@ -1,9 +1,8 @@
-# Product Backlog 작성하기
+# Product Backlog 도출
 
 ### INTRO.
 
 과제 전체에 대한 이해를 바탕으로 팀원들이 모두 참여하여 Product Backlog를 작성합니다.
-
 Product Backlog 작성은 Story의 도출, 구조화, 시각화 및 관리가 용이하도록 Story Mapping 기법을 활용합니다.
 
 |   참가자    | 타임박스 |             산출물             |
@@ -63,7 +62,6 @@ Product Backlog 작성은 Story의 도출, 구조화, 시각화 및 관리가 �
 ### REFERENCE
 
 - **[Product Backlog](./product-backlog.md)**
-- **[Product Backlog Template](http://moudemo.mousoft.co.kr/confluence/display/AW/Product+Backlog+Template)**
-- **[Product Backlog Management Tip](http://moudemo.mousoft.co.kr/confluence/display/AW/Product+Backlog+Management+Tip)**
-- **[Story Map](http://moudemo.mousoft.co.kr/confluence/display/AW/Story+Map)**
-- **[Epic-Story-Task](http://moudemo.mousoft.co.kr/confluence/display/AW/Epic-Story-Task)**
+- **[Product Backlog Template](./)**
+- **[사용자 스토리(User Story)](./user-story.md)**
+
