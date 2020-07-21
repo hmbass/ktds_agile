@@ -1,3 +1,5 @@
+
+
 # Product Backlog
 
 ### 개요
@@ -57,6 +59,20 @@ Product Backlog에 들어갈 수 있는 항목은 다음과 같은 것들이 될
 
 분류가 명확하지 않고 여러 분류에 걸치는 항목들이 존재할 수 있다. 항목들을 분류하여 관리할 필요는 없지만, 이런 분류에 속하는 것이라는 것을 인지할 필요는 있다.
 
+### Product Backlog의 완료기준(DoD : Definition of Done) 정의
+
+Product Backlog에는 완료기준을 정의하여 성공 기준을 명확히 해야 한다.
+
+* 완료의 정의
+  * 결과물이 잠재적으로 출시 가능하다고 공표하기 전에 팀이 성공적으로 완수해야 한다고 기대되는 일의 체크리스크
+  * 제품 책임자(PO)와 개발팀이 모두 모여서 정의해야 하며, 서로 합의 해야 함
+  * 제품 책임자는 인수 관점에서 완료를 중요시하고, 개발팀은 SW의 품질관점에서 완료를 중시하는 성향이 있음
+  * 완료 기준 중에 하나라도 충족 시키지 못한다면, 스프린트를 완료한 것이 아니다. 미완성 항목으로 정의되며, 다음 스프린트 작업으로 할당
+* Product Backlog에는 아이템 별로 인수 조건(Acceptance Criteria)이 작성되어야 하며, 이는 인수 테스트에서 인증된다.
+  [작성 예]
+  - Product Backlog 아이템 : "고객이 신용 카드 결제가 가능하다."
+  - 인수조건(Acceptance Criteria) : "VISA, Master 카드와 국내 발행 모든 카드사의 신용/체크 카드로 결제가 가능 하다", "오류 발생 시 오류 원인과 어떻게 조치하면 될지 고객에게 알려 줄 수 있는 알림 메시지를 줘야 한다." 등
+
 ### PO를 위한 Product Backlog 관리팁
 
 #### **1. Product Backlog가 관리 가능한 수준으로 유지되어야 한다.**
@@ -103,3 +119,4 @@ Product Backlog는 팀 및 이해관계자에게 투명하게 공유되어야 �
 
 - **[사용자 스토리(User Stroy)](./user-story.md)**
 - **[Product Backlog Template](http://moudemo.mousoft.co.kr/confluence/display/AW/Product+Backlog+Template)** ==> 템플릿 링크 필요
+

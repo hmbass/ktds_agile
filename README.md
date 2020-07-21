@@ -6,7 +6,23 @@ kt ds Agile Playbook은 실무에 바로 적용할 수 있는 가이드라인으
 
 ### Sitemap
 
-1. 준비
+1. Agile 개요
+
+   1.1 [Agile 기본 개념](./agile-concept.md)
+
+   1.2 Scrum
+
+   ​	1.2.1 Scrum 개념
+
+   ​	1.2.2 Scrum 역할
+
+   ​	1.2.3 Scrum 이벤트
+
+   ​	1.2.4 Scrum 산출물
+
+   1.3 Kanban(준비중)
+
+2. 준비
 
    1.1 프로젝트 착수 준비
 
@@ -16,23 +32,23 @@ kt ds Agile Playbook은 실무에 바로 적용할 수 있는 가이드라인으
 
    1.4 프로젝트 착수 보고
 
-2. 계획
+3. 계획
 
-   2.1 [제품백로그 도출](./product-backlog.md)
+   3.1 [제품백로그 도출](./product-backlog.md)
 
-   2.2 [릴리즈 계획](./release-planning.md)
+   3.2 [릴리즈 계획](./release-planning.md)
 
-   2.3 아키텍처 정의
+   3.3 [아키텍처 및 개발 표준 정의](./architecture-definition.md)
 
-   2.4 개발환경 구성
+   3.4 개발환경 구성
 
-3. 실행
+4. 실행
 
-   3.1 [스프린트 계획](./sprint-planning.md)
+   4.1 [스프린트 계획](./sprint-planning.md)
 
-   3.2 [스프린트 실행](./sprint-execute.md)
+   4.2 [스프린트 실행](./sprint-execute.md)
 
-   3.3 [스프린트 리뷰](./sprint-review.md)
+   4.3 [스프린트 리뷰](./sprint-review.md)
 
-   3.4 [스프린트 회고](./sprint-retro.md)
+   4.4 [스프린트 회고](./sprint-retro.md)
 
