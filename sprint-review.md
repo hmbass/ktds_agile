@@ -2,13 +2,49 @@
 
 ### INTRO.
 
-Sprint 리뷰하기에서는 이번 Sprint 동안에 완료된 기능을 PO 및 이해관계자들에게 시연하고 제품에 대한 피드백을 받아 지속적으로 제품을 개선해 나갈 수 있도록 합니다.
+Sprint Review(스프린트 리뷰)는 Product Increments를 검토하고, 필요에 따라 Product Backlog를 적합하게 수정하고자 매 Sprint 끝에 수행한다.
+
+Sprint Review에서 Scrum 팀과 제품 이해관계자들은 이번 Sprint에서 무엇이 완료 되었는지에 대해 함께 확인한다.
+
+Sprint Review 결과와 Sprint 수행 중 변경된 Product Backlog를 고려하여, 미팅 참석자들은 제품 가치를 최적화하기 위해 다음에 무엇을 해야 할지 함께 의논한다.
+
+Sprint Review는 비공식 미팅으로, 경과 보고 미팅이 아니고 완료된 Product Increments를 발표함으로 피드백을 얻고 서로 간의 협력을 촉진하기 위한 미팅이다.
+
+Sprint Review는 1개월 Sprint 기준으로 최대 4시간을 제안한다. 더 짧은 Sprint에서는 더 짧은 Sprint Review 미팅을 한다.
+
+SM은 팀이 Sprint Review 미팅을 했는지, 모든 참석자가 그 목적을 제대로 이해했는지 확인해야 하고, Sprint Review 미팅이 주어진 시간 안에 끝나도록 Scrum 팀을 교육한다.
+
+![sprint_review](./img/sprint_review.png)
+
+### 주요 내용
+
+Sprint Review는 다음의 내용을 포함한다.
+
+- 미팅에는 Scrum 팀과 PO가 초대한 핵심 제품 이해관계자들이 참석
+- PO가 완료된 Product Backlog 항목과 완료되지 못한 항목을 설명
+- 개발팀은 Sprint 동안 무엇이 잘 진행되었는지, 무슨 문제가 있었는지, 어떻게 문제들을 해결했는지 설명
+- 개발팀은 완료된 작업을 시연하고 그 Product Increments에 대한 질문에 답변
+- PO는 현재 남아 있는 Product Backlog를 설명하고, (필요하다면) 현재까지의 진행 상황을 바탕으로 가능한 예상 목표 및 제품 전달 날짜를 계획
+- 참가자 전체가 다음에 무엇을 할지 함께 의논하여 다음 Sprint Planning에 가치 있는 조언을 제공
+- 제품의 시장이나 잠재적 사용처가 어떻게 변했는지 그리고 다음에 해야 할 가장 가치 있는 일들은 무엇인지 검토
+- 다음 제품 출시 기능이나 성능에 대한 일정, 예산, 잠재적 기능, 그리고 시장에 대해 검토
+
+Sprint Review 결과는 다음 Sprint에서 진행해야 할 Product Backlog를 재구성하기 위한 것이다.
+
+Sprint Review를 통해 얻은 피드백은 추후에 논의를 통해 반영 여부와 방법을 결정하여 Product Backlog에 반영한다.
+
+Product Backlog는 새로운 기회를 위해 전체적으로 조정될 수 있다.
+
+### Sprint 리뷰 vs. Sprint 회고
+
+- Sprint 리뷰는 Sprint 수행 후 실제 배포 가능한 Product Increments를 이해관계자에게 데모를 하고 피드백을 받는 활동
+- Sprint 회고는 Sprint 결과물이 아니라 Sprint 수행 프로세스를 대상으로 개선해야 할 사항을 식별하고 이에 대한 개선안을 도출하는 활동
+
+### STEPS
 
 |   참가자    |             타임박스             |                산출물                |
 | :---------: | :------------------------------: | :----------------------------------: |
 | **팀 전원** | **2시간**<br />(2주 Sprint 기준) | **제품 피드백**<br />**제품 개선안** |
-
-### STEPS
 
 #### STEP 1: 리뷰 준비
 

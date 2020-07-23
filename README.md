@@ -12,11 +12,11 @@ kt ds Agile Playbook은 실무에 바로 적용할 수 있는 가이드라인으
 
    1.2 Scrum
 
-   ​		1.2.1 Scrum 개념
+   ​		1.2.1 [Scrum 개념](./scrum-concept.md)
 
-   ​		1.2.2 Scrum 역할
+   ​		1.2.2 [Scrum 역할](./scrum-role.md)
 
-   ​		1.2.3 Scrum 이벤트
+   ​		1.2.3 [Scrum 이벤트](./scrum-event.md)
 
    ​		1.2.4 Scrum 산출물
 
