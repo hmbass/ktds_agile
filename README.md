@@ -18,7 +18,7 @@ kt ds Agile Playbook은 실무에 바로 적용할 수 있는 가이드라인으
 
    ​		1.2.3 [Scrum 이벤트](./scrum-event.md)
 
-   ​		1.2.4 Scrum 산출물
+   ​		1.2.4 [Scrum 산출물](./scrum-output.md)
 
    1.3 Kanban(준비중)
 
