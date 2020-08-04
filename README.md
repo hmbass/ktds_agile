@@ -26,13 +26,13 @@ kt ds Agile Playbook은 실무에 바로 적용할 수 있는 가이드라인으
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.1 준비
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1 프로젝트 착수 준비
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1 [프로젝트 착수 준비](./project-start-prepare.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2 프로젝트 Tailoring
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2 [프로젝트 Tailoring](./project-tailoring.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.3 프로젝트 계획 수립
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.3 [프로젝트 계획 수립](./project-planning-setup.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.4 프로젝트 착수 보고
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.4 [프로젝트 착수 보고](./project-start-report.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.2 계획
 
@@ -42,7 +42,7 @@ kt ds Agile Playbook은 실무에 바로 적용할 수 있는 가이드라인으
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [아키텍처 및 개발 표준 정의](./architecture-definition.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.4 개발환경 구성
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.4 개발환경 구성(프로젝트 상황에 맞게 구성)
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.3 수행
 
