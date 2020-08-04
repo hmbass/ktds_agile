@@ -6,49 +6,51 @@ kt ds Agile Playbook은 실무에 바로 적용할 수 있는 가이드라인으
 
 ### Sitemap
 
-1. Agile 개요
+#### 1. Agile 개요
 
-   1.1 [Agile 기본 개념](./agile-concept.md)
+&nbsp;&nbsp;&nbsp;&nbsp;1.1 [Agile 기본 개념](./agile-concept.md)
 
-   1.2 Scrum
+&nbsp;&nbsp;&nbsp;&nbsp;1.2 Scrum
 
-   ​		1.2.1 [Scrum 개념](./scrum-concept.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 [Scrum 개념](./scrum-concept.md)
 
-   ​		1.2.2 [Scrum 역할](./scrum-role.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 [Scrum 역할](./scrum-role.md)
 
-   ​		1.2.3 [Scrum 이벤트](./scrum-event.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.3 [Scrum 이벤트](./scrum-event.md)
 
-   ​		1.2.4 [Scrum 산출물](./scrum-output.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.4 [Scrum 산출물](./scrum-output.md)
 
-   1.3 Kanban(준비중)
+&nbsp;&nbsp;&nbsp;&nbsp;1.3 Kanban(준비중)
 
-2. 준비
+#### 2. Agile 프로젝트 수행
 
-   1.1 프로젝트 착수 준비
+&nbsp;&nbsp;&nbsp;&nbsp;2.1 준비
 
-   1.2 프로젝트 Tailoring
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1 프로젝트 착수 준비
 
-   1.3 프로젝트 계획 수립
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2 프로젝트 Tailoring
 
-   1.4 프로젝트 착수 보고
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.3 프로젝트 계획 수립
 
-3. 계획
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.4 프로젝트 착수 보고
 
-   3.1 [제품백로그 도출](./product-backlog.md)
+&nbsp;&nbsp;&nbsp;&nbsp;2.2 계획
 
-   3.2 [릴리즈 계획](./release-planning.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 [제품백로그 도출](./product-backlog.md)
 
-   3.3 [아키텍처 및 개발 표준 정의](./architecture-definition.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.2 [릴리즈 계획](./release-planning.md)
 
-   3.4 개발환경 구성
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [아키텍처 및 개발 표준 정의](./architecture-definition.md)
 
-4. 실행
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.4 개발환경 구성
 
-   4.1 [스프린트 계획](./sprint-planning.md)
+&nbsp;&nbsp;&nbsp;&nbsp;2.3 수행
 
-   4.2 [스프린트 실행](./sprint-execute.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.1 [스프린트 계획](./sprint-planning.md)
 
-   4.3 [스프린트 리뷰](./sprint-review.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.2 [스프린트 실행](./sprint-execute.md)
 
-   4.4 [스프린트 회고](./sprint-retro.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.3 [스프린트 리뷰](./sprint-review.md)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.4 [스프린트 회고](./sprint-retro.md)
 
